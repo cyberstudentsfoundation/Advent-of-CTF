@@ -25,7 +25,7 @@ also provide clarifications, intended solutions, and additional hints in these c
 
 | Day | Title                                                                             | Category            | Points | Challenge Author | Write-up Author |
 | --- | --------------------------------------------------------------------------------- | ------------------- | ------ | ---------------- | --------------- |
-| 1   | [Logical Exclusivity](/2024/Day%2001%20-%20Logical%20Exclusivity/README.md)       | Forensics           | 30     | GodderE2D        | zarnex          |
+| 1   | [Logical Exclusivity](/2024/Day%2001%20-%20Logical%20Exclusivity/README.md)       | Cryptography        | 30     | GodderE2D        | zarnex          |
 | 2   | [screaming](/2024/Day%2002%20-%20screaming/README.md)                             | Reverse engineering | 40     | Vip3r            | zarnex          |
 | 3   | [ElfTV](/2024/Day%2003%20-%20ElfTV/README.md)                                     | Reverse engineering | 55     | Vip3r            | zarnex          |
 | 4   | [long gone](/2024/Day%2004%20-%20long%20gone/README.md)                           | Forensics           | 75     | Vip3r            | dharneesh5555   |
